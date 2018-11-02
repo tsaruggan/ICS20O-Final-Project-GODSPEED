@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FinalProject_SThiruchelvan
+</name>
+</assembly>
+<members>
+<member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.DUNGEON">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.FLYING_HEART">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.GALAXY">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.heart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.UNDERWATER">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.untitled">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FinalProject_SThiruchelvan.My.Resources.Resources.URBAN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:FinalProject_SThiruchelvan.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
